@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Jun 22 15:58:47 2024
+[*]
+[dumpfile] "C:\Users\HP\OneDrive\Documents\RISC_V_SINGLE_CYCLE_CORE_Pipeling\dump.vcd"
+[dumpfile_mtime] "Sat Jun 22 15:56:27 2024"
+[dumpfile_size] 2842
+[savefile] "C:\Users\HP\OneDrive\Documents\RISC_V_SINGLE_CYCLE_CORE_Pipeling\Single_Cycle_Testing.vcd.gtkw"
+[timestart] 0
+[size] 1280 657
+[pos] -1 -1
+*-7.924699 225 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.dut.
+[sst_width] 197
+[signals_width] 206
+[sst_expanded] 1
+[sst_vpaned_height] 173
+@28
+tb.clk
+tb.rst
+tb.PCSrcE
+@22
+tb.PCTargetE[31:0]
+tb.InstrD[31:0]
+tb.PCD[31:0]
+tb.PCPlus4D[31:0]
+tb.dut.program.PC[31:0]
+tb.dut.PCPlus4F[31:0]
+tb.dut.PCPlus4F_reg[31:0]
+tb.dut.PCF[31:0]
+tb.dut.PC_F[31:0]
+tb.dut.pc.a[31:0]
+tb.dut.pc.b[31:0]
+tb.dut.pc.c[31:0]
+tb.dut.program.PC[31:0]
+@23
+tb.dut.program.PC_NEXT[31:0]
+@28
+tb.dut.program.clk
+tb.dut.program.rst
+[pattern_trace] 1
+[pattern_trace] 0
